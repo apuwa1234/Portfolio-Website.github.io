@@ -8,3 +8,13 @@
     scroll-behavior: smooth;
     list-style: None;
 }   
+
+header{
+    position: fixed;
+    top: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    
+
+
+}
